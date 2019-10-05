@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<layout chosenLayoutAlgorithm="0" horizontalLayout="true">
+    <struct>
+        <feature X="225" Y="90" name="HacerRetiro"/>
+        <feature X="772" Y="90" name="SaldoReducido"/>
+        <feature X="137" Y="90" name="ConsultarSaldo"/>
+        <feature X="410" Y="90" name="RealizarConsignacion"/>
+        <feature X="299" Y="90" name="HacarTransferencia"/>
+        <feature X="433" Y="40" name="ejemplocajeroautomatico"/>
+        <feature X="529" Y="90" name="ImprimirListadoOperaciones"/>
+        <feature X="675" Y="90" name="RegistroAuditoria"/>
+    </struct>
+    <constraints/>
+</layout>
